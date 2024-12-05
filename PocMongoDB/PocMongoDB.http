@@ -1,0 +1,6 @@
+@PocMongoDB_HostAddress = http://localhost:5161
+
+GET {{PocMongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
